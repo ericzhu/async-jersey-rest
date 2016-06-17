@@ -1,0 +1,10 @@
+.idea/
+.recommenders/
+Servers/
+RemoteSystemsTempFiles/
+*.class
+**/target/
+**/.settings/
+**/.classpath
+**/.project
+*.log
